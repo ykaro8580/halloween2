@@ -1,0 +1,13 @@
+Músicas do jogo (todas tocam em loop):
+
+Lobby.mp3                      criação do personagem (nome, arma, elemento, atributos)
+Area_1.mp3                     jornada na Rua do Nevoeiro Escarlate: avanços, combates, mercador, pousada
+Masmorra_Area_1.mp3            dentro da masmorra, incluindo as lutas e o baú
+Boss_fight_madame_blackwood.mp3  luta contra Madame Blackwood
+Boss_fight_jack.mp3            luta contra Jack, o Decepador de Sangue
+
+Opcionais (se criar os arquivos, passam a tocar): morte.mp3 (tela de morte) e vitoria.mp3 (fim da Área 1; sem ele toca a Lobby).
+Para trocar nomes ou arquivos, edite a lista MUS no index.html. Botão de som no canto liga e desliga tudo. Volume da música: MVOL (0 a 1).
+
+jumpscare.mp3                  som tocado no susto da tela de morte (volume máximo; a imagem é img/jumpscare.png)
+(O jumpscare.mp3 teve os 2,4 s de silêncio do início cortados, para o grito tocar junto com a imagem.)
